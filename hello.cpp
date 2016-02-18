@@ -7,6 +7,6 @@ int main()
 
 	cout << "Hello, Nkosie" << endl;
 	cout << "today is wednesday!" << endl;
-	cout << "How cool is programming? :) Rate it out of 10 :O " << endl;//answer please
+	cout << "How cool is programming? :) Rate it out of 10 :O " << endl;//answer me please
 
 }
